@@ -1,0 +1,50 @@
+⭐️는 핵심 체크리스트 파일
+
+📁 v1.0-Rookiss-Foundation/
+├── 📄 README.md                    # 버전 개요 및 사용법
+├── 📄 CHANGELOG.md                 # 버전별 변경사항
+├── 📁 01-PD-Director/              # PD + 사업 + 기획 통합
+│   ├── 📄 PD-Core-Checklist.md           # ⭐️ 코어 가설, 스코프 정의 ⭐️
+│   ├── 📄 Business-Validation.md         # 수익성 검증, 경쟁분석
+│   ├── 📄 Game-Planning.md               # 게임 시스템, 밸런싱
+│   ├── 📄 AI-Prompts-PD.md               # PD 관련 AI 프롬프트 모음
+│   └── 📁 templates/
+│       ├── 📄 core-hypothesis-template.md
+│       ├── 📄 competitor-analysis-template.md
+│       └── 📄 game-design-document-template.md
+├── 📁 02-Art-Creator/              # 아트 + 리소스 제작
+│   ├── 📄 Art-Production-Checklist.md    # ⭐️ 스타일 가이드, 리소스 제작 ⭐️
+│   ├── 📄 AI-Art-Pipeline.md            # MidJourney, ComfyUI 워크플로
+│   ├── 📄 Asset-Management.md            # 에셋 관리, 네이밍 룰
+│   ├── 📄 AI-Prompts-Art.md             # 아트 관련 AI 프롬프트 모음
+│   └── 📁 workflows/
+│       ├── 📄 midjourney-prompts.md
+│       ├── 📄 comfyui-character-workflow.md
+│       └── 📄 comfyui-ui-workflow.md
+├── 📁 03-Tech-Developer/           # 프로그래밍 + 기술 구현
+│   ├── 📄 Development-Checklist.md       # ⭐️ 모듈 구조, 핵심 기능 ⭐️
+│   ├── 📄 AI-Coding-Assistant.md         # AI 코딩 도구 활용법
+│   ├── 📄 Monetization-Integration.md    # 광고, IAP 연동
+│   ├── 📄 Analytics-Setup.md             # 분석 도구 연동
+│   ├── 📄 AI-Prompts-Tech.md            # 개발 관련 AI 프롬프트 모음
+│   └── 📁 code-templates/
+│       ├── 📄 module-architecture.md
+│       ├── 📄 admob-integration-template.md
+│       └── 📄 firebase-setup-template.md
+├── 📁 04-QA-Publisher/             # QA + 출시 + 운영
+│   ├── 📄 QA-Testing-Checklist.md       # ⭐️ 기능, 성능, 호환성 테스트 ⭐️
+│   ├── 📄 Store-Submission.md           # 스토어 제출 가이드
+│   ├── 📄 Launch-Operation.md           # 런치 후 14일 운영
+│   ├── 📄 AI-Prompts-QA.md             # QA/출시 관련 AI 프롬프트
+│   └── 📁 submission-templates/
+│       ├── 📄 google-play-checklist.md
+│       ├── 📄 app-store-checklist.md
+│       └── 📄 privacy-policy-template.md
+├── 📁 shared-resources/            # 공통 리소스
+│   ├── 📄 4Week-Timeline.md              # 4주 출시 전체 일정
+│   ├── 📄 Failure-Prevention-Rules.md   # 실패 방지 5대 원칙
+│   ├── 📄 AI-Tools-Setup.md             # 전체 AI 도구 설치 가이드
+│   └── 📄 KPI-Dashboard-Setup.md        # 지표 모니터링 설정
+└── 📁 case-studies/                # 실제 적용 사례
+    ├── 📄 sample-project-walkthrough.md
+    └── 📄 lessons-learned.md
